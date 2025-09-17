@@ -1,0 +1,6 @@
+@EmployeeAPIWithJWT_123_HostAddress = http://localhost:5008
+
+GET {{EmployeeAPIWithJWT_123_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

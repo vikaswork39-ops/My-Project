@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmployeeAPIWithJWT_123.props" />
+</Project>
